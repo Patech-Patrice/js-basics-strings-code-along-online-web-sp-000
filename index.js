@@ -3,4 +3,4 @@ const currentUser = 'Benji Bailey';
 
 const welcomeMessage = 'Welcome to Flatbook, ' + currentUser + '!' ;
 
-const excitedwelcomeMessage = '';
+const excitedwelcomeMessage = 'WELCOME TO FLATBOOK, ';
