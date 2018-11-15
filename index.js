@@ -1,5 +1,5 @@
 // Write your code in this file!
-const currentUser = 'Benji Bailey';
+const currentUser = 'BENJI BAILEY';
 
 const welcomeMessage = 'Welcome to Flatbook, ' + currentUser + '!' ;
 
